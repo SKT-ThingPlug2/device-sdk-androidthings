@@ -7,6 +7,8 @@ ThingPlug Simple SDK for Android를 Android Things에 응용한 예제 프로젝
 
 
 ## Requirements
+* **[Raspberry Pi 3](https://developer.android.com/things/hardware/)**
+* Raspberry Pi Camera V2
 * **[AndroidStudio 3.x](https://developer.android.com/studio/index.html)**
 * **[API Level](https://developer.android.com/guide/topics/manifest/uses-sdk-element.html)**
 
